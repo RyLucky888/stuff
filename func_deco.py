@@ -1,7 +1,7 @@
 def Dressmeup(func):
     def Wrapper(*args,**kwargs):
         func.lips = 'smooth'
-        func.skin= 'white'
+        func.skin= 'Brown'
         return func
     return Wrapper
 
