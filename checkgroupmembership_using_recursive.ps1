@@ -1,4 +1,8 @@
 ﻿function RecursiveFn{
+    <#
+        .Synopsis
+        .Description
+    #>
     Param(
         $groupName,
         $zid
